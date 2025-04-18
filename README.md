@@ -57,20 +57,20 @@ npm start
 ## Screenshots
 
 **Login & Register**  
-<img src="https://github.com/user-attachments/assets/abd88835-fcf8-40c0-8e2b-f741d3869d3e" width="400"/>
-<img src="https://github.com/user-attachments/assets/0a0cbe14-3e31-4b25-af58-5666d56cb6e0" width="400"/>
+<img src="https://github.com/user-attachments/assets/abd88835-fcf8-40c0-8e2b-f741d3869d3e" width="600"/>
+<img src="https://github.com/user-attachments/assets/0a0cbe14-3e31-4b25-af58-5666d56cb6e0" width="600"/>
 
 **Home**  
-<img src="https://github.com/user-attachments/assets/4f1eb8c5-83ae-4b33-b40c-252e8e98a53a" width="400"/>
+<img src="https://github.com/user-attachments/assets/4f1eb8c5-83ae-4b33-b40c-252e8e98a53a" width="800"/>
 
 **Post a Product**  
-<img src="https://github.com/user-attachments/assets/4331d7e7-968e-49f7-b948-91401317d2d9" width="400"/>
+<img src="https://github.com/user-attachments/assets/4331d7e7-968e-49f7-b948-91401317d2d9" width="800"/>
 
 **Product Details**  
-<img src="https://github.com/user-attachments/assets/60ebefd2-8223-4a00-8f05-62862b18c160" width="400"/>
+<img src="https://github.com/user-attachments/assets/60ebefd2-8223-4a00-8f05-62862b18c160" width="800"/>
 
 **Chat with sellers & buyers**  
-<img src="https://github.com/user-attachments/assets/a047fd30-2340-484e-9ce1-33cf1614671b" width="400"/>
+<img src="https://github.com/user-attachments/assets/a047fd30-2340-484e-9ce1-33cf1614671b" width="800"/>
 
 
 
