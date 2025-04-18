@@ -45,7 +45,7 @@ cd unitrade
 ```bash
 cd backend
 npm install
-npm run dev
+npm run server
 ```
 3. **Run frontend:**
 ```bash
