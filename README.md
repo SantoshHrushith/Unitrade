@@ -56,9 +56,9 @@ npm start
 
 ## Screenshots
 
-**Login & Register**  
-<img src="https://github.com/user-attachments/assets/abd88835-fcf8-40c0-8e2b-f741d3869d3e" width="600"/>
-<img src="https://github.com/user-attachments/assets/0a0cbe14-3e31-4b25-af58-5666d56cb6e0" width="600"/>
+**Login & Register** 
+<img src="https://github.com/user-attachments/assets/0a0cbe14-3e31-4b25-af58-5666d56cb6e0" width="500"/>
+<img src="https://github.com/user-attachments/assets/abd88835-fcf8-40c0-8e2b-f741d3869d3e" width="500"/>
 
 **Home**  
 <img src="https://github.com/user-attachments/assets/4f1eb8c5-83ae-4b33-b40c-252e8e98a53a" width="800"/>
